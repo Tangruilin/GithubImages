@@ -1,2 +1,2 @@
 # GithubImages
-The images for my own repo
+个人图床使用
